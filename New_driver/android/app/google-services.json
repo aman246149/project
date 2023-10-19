@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675766022871",
+    "project_id": "barcelonataxi-e2f38",
+    "storage_bucket": "barcelonataxi-e2f38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675766022871:android:d948065144a0a12dfff692",
+        "android_client_info": {
+          "package_name": "com.emart.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjAI7p0CMgHuvb6ogqSzkfBsfchwUSiIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
